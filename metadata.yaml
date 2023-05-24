@@ -14,12 +14,17 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/ebooks/author/26500
+covers:
+- cover_type: archival
+  image_path: 70656-h/images/cover.jpg
 creator:
   author:
     agent_name: Francis, John, of the Bank of England
     gutenberg_agent_id: '46558'
     url: http://www.gutenberg.org/2009/agents/46558
 description: 'Appendix: The anatomy of Exchange Alley, by Daniel Defoe.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70656#Chronicles-and-characters-of-the-stock-exchange
 gutenberg_issued: '2023-04-27'
 identifiers:
   gutenberg: '70656'
